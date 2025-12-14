@@ -45,7 +45,10 @@ It uses the same dataloader as the beta and gamma model (`pix_pytorch.ipynb`).
 1. got to `/models/model_download.md`
 2. Got to the provided google drive link
 3. Download the model locally and add it to the models folder
-4. Imma send @Henock some files to finsh this H3
+4. In `/notebooks/putorch_implementation/put_together_pix2pix.ipynb` has a function called `load_model_for_further_training`
+5. Set `model_name` to be the name of the local downloaded model.
+6. This will set the model for train mode
+7. Finally, set the number of additional epochs to further train the pre-trained models. 
 
 ## Results
 
