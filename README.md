@@ -66,7 +66,7 @@ It uses the same dataloader as the beta and gamma model (`pix_pytorch.ipynb`).
 
 ## Potential Improvements
 - [Persistent Recurrent Memory Between Transformer Layers Improves Language Model Generalization](https://arxiv.org/pdf/2609.17251)
-- [Forward-Backward Reinforcement Learning)[https://arxiv.org/pdf/1803.10227]
+- [Forward-Backward Reinforcement Learning](https://arxiv.org/pdf/1803.10227)
 
 
 [1]: https://anne-guilbert.medium.com/black-and-white-image-colorization-with-deep-learning-53855922cda6 "Black and White Image Colorization with Deep Learning"
