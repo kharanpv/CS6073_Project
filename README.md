@@ -64,6 +64,9 @@ It uses the same dataloader as the beta and gamma model (`pix_pytorch.ipynb`).
 | ----- | ----- |
 | ![image](/training/discrim_loss.png)  | ![image](/training/gen_loss.png)  |
 
+## Potential Improvements
+- [Persistent Recurrent Memory Between Transformer Layers Improves Language Model Generalization](https://arxiv.org/pdf/2609.17251)
+
 
 [1]: https://anne-guilbert.medium.com/black-and-white-image-colorization-with-deep-learning-53855922cda6 "Black and White Image Colorization with Deep Learning"
 [4]: https://drive.google.com/file/d/1hNXR_qPwNKS-z3xNQJ4fWlEWe-zES_nX/view?usp=sharing
